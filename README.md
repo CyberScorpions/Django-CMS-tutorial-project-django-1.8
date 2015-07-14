@@ -1,7 +1,7 @@
 # Django-CMS-tutorial-project-django-1.8-
 Hi,
 i made it while studying the tutorial,
-might come handy to you if you are a starter.
+might come handy to you if you are a newbie.
 
 I do not guarantee that everything is working well,
 but overall it's fine.
